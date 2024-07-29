@@ -1,16 +1,34 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">- Front End  Developer<br>- Studying System Development<br>- Delving deeper into JavaScript</p>
+
+###
+
+<h2 align="left">Techs/Tools</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="54" alt="javascript logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=html" height="54" alt="html5 logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=css" height="54" alt="css3 logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="54" alt="mysql logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=py" height="54" alt="python logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=figma" height="54" alt="figma logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="54" alt="vscode logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=git" height="54" alt="git logo"  />
+  <img width="28" />
+  <img src="https://skillicons.dev/icons?i=discord" height="54" alt="discord logo"  />
+</div>
 
 ###
 
@@ -26,20 +44,6 @@
 
 ###
 
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="52" alt="javascript logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=html" height="52" alt="html5 logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=css" height="52" alt="css3 logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="52" alt="mysql logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=py" height="52" alt="python logo"  />
-</div>
+<img src="https://raw.githubusercontent.com/Dev-Vitor-lev/Dev-Vitor-lev/output/snake.svg" alt="Snake animation" />
 
 ###
