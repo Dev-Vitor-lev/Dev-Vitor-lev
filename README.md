@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dev-Vitor-lev/Dev-Vitor-lev/output/snake.svg" alt="Snake animation" />
+
 
 ###
